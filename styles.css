@@ -1,0 +1,46 @@
+.page { 
+    background-color: f2e9e4;
+    font-family:courier,arial,helvetica;
+    text-align: center;
+    margin-top: 2em;
+    }
+    
+    #image {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      width: 55%;
+      margin: auto;
+    }
+    
+    #img-div {
+      background-color: white;
+      padding-top: 1em;
+      padding-bottom: 0,5em;
+      margin-right: 1em;
+      margin-left: 1em;
+    }
+    
+    .name {
+      padding-top: 1em;
+    }
+    
+    footer {
+      padding-top: 2em;
+      padding-bottom: 2em;
+    }
+    
+    h2 {
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+    }
+    
+    #img-caption {
+      padding-bottom: 0.5em;
+    }
+    
+    .p1 .p2 {
+      margin-left: 0.5em;
+      margin-right: 0.5em;
+    }
+    
